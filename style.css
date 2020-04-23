@@ -30,9 +30,11 @@ h2{
   }
 h3{
   position: absolute;
-  padding: 160px 0 0 0;
+  padding: 180px 0 0 0;
   z-index: -1;
   color: #c2d9ff;
+  text-align: center;
+  font-size: 16px;
   }
 
 
