@@ -1,6 +1,6 @@
 const video = document.getElementById("video");
 alert(
-  "INSTRUCTIONS: Please wait for a while till the resources load. Allow the camera access for recognition."
+  "INSTRUCTIONS: Please wait for a while till the resources load. Allow the camera access for recognition.(This app takes minimum 10s to load)"
 );
 Promise.all([
   faceapi.nets.tinyFaceDetector.loadFromUri("/models"),
