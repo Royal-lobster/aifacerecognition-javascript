@@ -7,7 +7,7 @@ body {
   justify-content: center;
   align-items: center;
   background-color: #191f26;
-  overflow: hidden;
+  max-width:600px;
 }
 
 canvas {
